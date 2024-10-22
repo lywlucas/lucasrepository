@@ -88,7 +88,7 @@ print(ans)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-![image-20241022144112070](C:\Users\ThinkPad\AppData\Roaming\Typora\typora-user-images\image-20241022144112070.png)
+![[image-20241022144112070](https://github.com/lywlucas/lucasrepository/blob/assignment-5/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-22%20144057.jpg)
 
 
 

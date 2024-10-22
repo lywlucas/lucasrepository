@@ -45,7 +45,7 @@ while True:
     print("Case %d: the next triple peak occurs in %d days."%(n,x-i))
 ```
 
-![image-20241022100828267](屏幕截图 2024-10-22 100810.jpg)
+![屏幕截图 2024-10-22 100810.jpg](https://github.com/lywlucas/lucasrepository/blob/assignment-5/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-22%20100810.jpg)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 

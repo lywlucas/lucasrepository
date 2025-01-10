@@ -51,7 +51,7 @@ else:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-![image-20240910163310919](C:\Users\ThinkPad\AppData\Roaming\Typora\typora-user-images\image-20240910163310919.png)
+![image-20240910163310919](https://raw.githubusercontent.com/lywlucas/img/main/img/image-20240910163310919.png)
 
 
 
